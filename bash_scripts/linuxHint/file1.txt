@@ -1,0 +1,10 @@
+total 28
+drwxrwxr-x 2 gokul gokul 4096 Nov  6 23:05 .
+drwxrwxr-x 6 gokul gokul 4096 Oct 29 23:18 ..
+-rwxrw-rw- 1 gokul gokul  714 Nov  6 20:16 condtional-statement.sh
+-rw-rw-r-- 1 gokul gokul    0 Nov  6 23:05 file1.txt
+-rw-rw-r-- 1 gokul gokul    0 Nov  6 23:05 file2.txt
+-rw-rw-r-- 1 gokul gokul   21 Nov  6 22:58 file.txt
+-rwxrw-rw- 1 gokul gokul  271 Oct 29 23:41 hello_script.sh
+-rwxrw-r-- 1 gokul gokul  313 Nov  6 23:05 input_output.sh
+-rwxrw-r-- 1 gokul gokul  906 Nov  6 21:10 loops.sh
